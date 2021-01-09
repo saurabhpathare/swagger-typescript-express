@@ -1,5 +1,4 @@
 import bodyParser from 'body-parser';
-import { Route } from 'tsoa';
 import express from "express";
 import swaggerUi from "swagger-ui-express";
 import { RegisterRoutes } from '../dist/routes';
